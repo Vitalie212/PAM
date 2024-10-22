@@ -1,0 +1,18 @@
+name: countdown_timer
+description: A new Flutter project.
+
+environment:
+  sdk: '>=3.5.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  percent_indicator: ^3.4.0 
+
+assets:
+- images/
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
